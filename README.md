@@ -34,17 +34,10 @@ I'm currently skilled in React.js, JavaScript (ES5 + ES6), PostgreSQL, Node.js, 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Applications
-* [Who's that Pokemon](https://petervila.github.io/whos-that-pokemon/#) - A dynamic HTML, CSS, and JavaScript project for Pokemon enthusiasts who want to re-experience the classic, “Who’s that Pokemon?”.
+* [Art-Alliance](https://art-alliance.herokuapp.com/) - A full stack web application for employers who want to find creative freelancers for hire.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/42393951/143111026-f15628c1-9c1c-42b8-ba0c-45a8f648dfb4.gif" width="60%" height="525px"/>
+  <img src="https://user-images.githubusercontent.com/90541276/163090621-f819831d-509e-4675-93dc-e5e62c3697d9.gif)" width="60%" height="525px"/>
 </p>
 
 _________________
 
-
-* [Social-Lite](https://social-lite-lfz.herokuapp.com/) - A full stack (PERN) web application for friends who want to share memories and plan out events together.
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/42393951/142703705-8a2bdc26-a4a5-4ffb-bf3e-ff7f6faebc33.png" width="40%" height="650px"/>
-&nbsp;
-  <img src="https://user-images.githubusercontent.com/42393951/142703708-be804cf7-aaf6-4f56-a22c-a4544dd69cc9.gif" width="40%" height="650px"/>
-</p>
