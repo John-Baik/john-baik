@@ -37,6 +37,8 @@ I'm currently skilled in React.js, JavaScript (ES5 + ES6), PostgreSQL, Node.js, 
 * [Art-Alliance](https://art-alliance.herokuapp.com/) - A full stack web application for employers who want to find creative freelancers for hire.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/90541276/163090621-f819831d-509e-4675-93dc-e5e62c3697d9.gif" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/90541276/163276453-59537fd4-e1cd-4633-9a4b-b416293d9fa0.gif" />
 </p>
 
 _________________
