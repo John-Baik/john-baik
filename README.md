@@ -9,6 +9,9 @@ I'm currently skilled in React.js, JavaScript (ES5 + ES6), PostgreSQL, Node.js, 
 <img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="Linkedin" width="64px"/> Connect with me on LinkedIn!
 </a>
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=John-Baik&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
