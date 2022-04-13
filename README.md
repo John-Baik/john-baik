@@ -9,8 +9,7 @@ I'm currently skilled in React.js, JavaScript (ES5 + ES6), PostgreSQL, Node.js, 
 <img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="Linkedin" width="64px"/> Connect with me on LinkedIn!
 </a>
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=John-Baik&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![John's gitHub stats](https://github-readme-stats.vercel.app/api?username=John-Baik&theme=dracula&show_icons=true) 
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -33,3 +32,19 @@ I'm currently skilled in React.js, JavaScript (ES5 + ES6), PostgreSQL, Node.js, 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### Applications
+* [Who's that Pokemon](https://petervila.github.io/whos-that-pokemon/#) - A dynamic HTML, CSS, and JavaScript project for Pokemon enthusiasts who want to re-experience the classic, “Who’s that Pokemon?”.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/42393951/143111026-f15628c1-9c1c-42b8-ba0c-45a8f648dfb4.gif" width="60%" height="525px"/>
+</p>
+
+_________________
+
+
+* [Social-Lite](https://social-lite-lfz.herokuapp.com/) - A full stack (PERN) web application for friends who want to share memories and plan out events together.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/42393951/142703705-8a2bdc26-a4a5-4ffb-bf3e-ff7f6faebc33.png" width="40%" height="650px"/>
+&nbsp;
+  <img src="https://user-images.githubusercontent.com/42393951/142703708-be804cf7-aaf6-4f56-a22c-a4544dd69cc9.gif" width="40%" height="650px"/>
+</p>
