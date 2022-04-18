@@ -46,6 +46,7 @@ _________________
 
 * [Pokemon-Catcher](https://john-baik.github.io/pokemon-catcher/) - A web application for Pokémon enthusiasts who want to look up Pokémon and create their own personal collection.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/90541276/163892250-0124e0c6-1d57-4873-8240-fe8d60acee40.gif" />
+  <img src="https://user-images.githubusercontent.com/90541276/163893653-0a352cdf-0653-461b-8f4e-9d641ede0879.gif" />
 </p>
+
 
