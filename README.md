@@ -31,17 +31,18 @@ I'm currently skilled in React.js, JavaScript (ES5 + ES6), PostgreSQL, Node.js, 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
 ### Applications
 * [Art-Alliance](https://art-alliance.herokuapp.com/) - A full stack web application for employers who want to find creative freelancers for hire.
-<div>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/90541276/163276600-364b5d13-03dd-4a55-8883-d9a023e947a8.gif" width="40%" />
   <img src="https://user-images.githubusercontent.com/90541276/163276453-59537fd4-e1cd-4633-9a4b-b416293d9fa0.gif" width="40%" />
 </p>
-</div>
 
 _________________
 
