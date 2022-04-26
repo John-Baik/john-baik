@@ -8,7 +8,8 @@ I'm currently skilled in React.js, JavaScript (ES5 + ES6), PostgreSQL, Node.js, 
 <a href="https://www.linkedin.com/in/john-baik/">
 <img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="Linkedin" width="64px"/> Connect with me on LinkedIn!
 </a>
-[Resume] (https://drive.google.com/file/d/1mMQusUFkyahxqa5aNLDN9Al8WmIbfj8i/view?usp=sharing)
+
+[Resume](https://drive.google.com/file/d/1mMQusUFkyahxqa5aNLDN9Al8WmIbfj8i/view?usp=sharing)
 
 ![John's gitHub stats](https://github-readme-stats.vercel.app/api?username=John-Baik&theme=dracula&show_icons=true) 
 
