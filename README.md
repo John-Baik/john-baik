@@ -40,13 +40,11 @@ Check out my Resume [here!](https://drive.google.com/file/d/1mMQusUFkyahxqa5aNLD
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
 ### Applications
-<div>
 * [Art-Alliance](https://art-alliance.herokuapp.com/) - A full stack web application for employers who want to find creative freelancers for hire.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/90541276/163276600-364b5d13-03dd-4a55-8883-d9a023e947a8.gif" width="40%" />
   <img src="https://user-images.githubusercontent.com/90541276/163276453-59537fd4-e1cd-4633-9a4b-b416293d9fa0.gif" width="40%" />
 </p>
-</div>
 
 _________________
 
