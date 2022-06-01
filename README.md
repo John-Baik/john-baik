@@ -6,7 +6,7 @@ I'm a Software Engineer (former Youtube Content Creator) with a burning desire t
 I'm currently skilled in React.js, JavaScript (ES5 + ES6), PostgreSQL, Node.js, CSS3, and HTML5 but I'm always seeking opprotunities to learn more!
 
 <a href="https://www.linkedin.com/in/john-baik/">
-<img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="Linkedin" width="30x"/> Connect with me on LinkedIn!
+<img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="Linkedin" width="5x"/> Connect with me on LinkedIn!
 </a>
 
 Check out my Resume [here!](https://drive.google.com/file/d/1mMQusUFkyahxqa5aNLDN9Al8WmIbfj8i/view?usp=sharing)
