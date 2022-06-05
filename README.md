@@ -40,7 +40,7 @@ Check out my Resume [here!](https://drive.google.com/file/d/1mMQusUFkyahxqa5aNLD
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
 ### Applications
-* [Art-Alliance](https://art-alliance.herokuapp.com/) [GitHub](https://github.com/John-Baik/Art-Alliance) - A full stack web application for employers who want to find creative freelancers for hire.
+* [Art-Alliance](https://art-alliance.herokuapp.com/) [(GitHub)](https://github.com/John-Baik/Art-Alliance) - A full stack web application for employers who want to find creative freelancers for hire.
 <p align="center">
 
   <img src="https://user-images.githubusercontent.com/90541276/163276600-364b5d13-03dd-4a55-8883-d9a023e947a8.gif" width="40%" />
@@ -49,7 +49,7 @@ Check out my Resume [here!](https://drive.google.com/file/d/1mMQusUFkyahxqa5aNLD
 
 _________________
 
-* [Pokemon-Catcher](https://john-baik.github.io/pokemon-catcher/) - A web application for Pokémon enthusiasts who want to look up Pokémon and create their own personal collection.
+* [Pokemon-Catcher](https://john-baik.github.io/pokemon-catcher/) [(GitHub)](https://github.com/John-Baik/pokemon-catcher) - A web application for Pokémon enthusiasts who want to look up Pokémon and create their own personal collection.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/90541276/163893653-0a352cdf-0653-461b-8f4e-9d641ede0879.gif" />
 </p>
