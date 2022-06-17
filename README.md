@@ -3,7 +3,7 @@
 ### About Me
 I'm a Software Engineer (former Youtube Content Creator) with a burning desire to improve my skillset in regards to full stack web development.
 
-I'm currently skilled in React.js, JavaScript (ES5 + ES6), PostgreSQL, Node.js, CSS3, and HTML5 but I'm always seeking opprotunities to learn more!
+I'm currently skilled in React.js, JavaScript (ES5 + ES6), PostgreSQL, Node.js, CSS3, and HTML5 but I'm always seeking opportunities to learn more!
 
 <a href="https://www.linkedin.com/in/john-baik/">
   <img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="Linkedin" width="100"/> Connect with me on LinkedIn!
